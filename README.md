@@ -68,6 +68,4 @@ This analysis provides Flowers Hospital with a comprehensive understanding of it
 - **Analysis Scripts**: Python and SQL scripts used to process and analyze the data.
 - **Graphs**: Visualizations representing the relationship between ERR and key quality indicators.
 
-## 🛠️ License
 
-This project is licensed under the MIT License.
