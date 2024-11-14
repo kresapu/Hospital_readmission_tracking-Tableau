@@ -1,5 +1,11 @@
 # Excess Readmission Ratio (ERR) Analysis at Flowers Hospital 🏥
 
+<p float="left">
+  <img src="https://github.com/kresapu/Hospital_readmission_tracking-Tableau/blob/main/dashboard.png" width="45%" />
+  <img src="https://github.com/kresapu/Hospital_readmission_tracking-Tableau/blob/main/excess%20readmission%20ratio.png" width="43%" />
+</p>
+
+
 ## 📌 Project Overview
 
 This project analyzes the Excess Readmission Ratios (ERR) at Flowers Hospital, Alabama, in the context of the Hospital Readmissions Reduction Program (HRRP). The HRRP, implemented by CMS in October 2012, aims to reduce readmissions for specific conditions by adjusting Medicare payments based on hospitals' readmission rates. This analysis evaluates the performance of Flowers Hospital in managing readmissions, specifically for conditions such as Acute Myocardial Infarction (AMI), Heart Failure (HF), and Pneumonia (PN), among others.
